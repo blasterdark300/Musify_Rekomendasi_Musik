@@ -98,11 +98,6 @@ Distribusi Popularitas Lagu:
 
 Distribusi Durasi Lagu (menit):  
 ![Distribusi Durasi](img/2.png)
-
----
-
-Berikut versi **revisi** bagian **Data Preparation** dengan penambahan langkah **cek missing value setelah penghapusan duplikat**, agar alurnya lebih jelas dan sesuai praktik yang benar:
-
 ---
 
 ## 🧹 Data Preparation
